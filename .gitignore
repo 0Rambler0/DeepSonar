@@ -1,0 +1,6 @@
+/dataset_param
+/model
+*.pyc
+*.log
+SR_module/__pycache__
+SR_module/resnet34_vlad8_ghost2_bdim512_deploy/
